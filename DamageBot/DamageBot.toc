@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: DamageBot
+## Notes: HealBot-style bars for the enemies you're fighting, with your DoTs on each one and click-casting.
+## Author: Jahleel
+## Version: 0.2.7
+## SavedVariables: DamageBotDB
+## Category: Combat
+
+Core.lua
+Bars.lua
+Frames.lua
+Options.lua

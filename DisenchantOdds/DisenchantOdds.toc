@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Disenchant Odds
+## Notes: Shows what an item disenchants into, and the chance of each result, in its tooltip.
+## Author: Jahleel
+## Version: 0.1.0
+## SavedVariables: DisenchantOddsDB
+## OptionalDeps: Auctionator
+## Category: Professions
+
+Data.lua
+Core.lua

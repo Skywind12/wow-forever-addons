@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Reagent Scout
+## Notes: Shows which vendors sell the reagents for the recipe you have selected, closest first.
+## Author: Jahleel
+## Version: 0.3.0
+## OptionalDeps: QuestieDB, Questie, TomTom
+## LoadSavedVariablesFirst: 1
+## SavedVariables: ReagentScoutDB
+## Category: Professions
+
+Core.lua
+Options.lua
+Data.lua
+Vendors.lua
+Professions.lua
+Panel.lua
