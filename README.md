@@ -55,6 +55,7 @@ Disenchants into:              Enchanting 150
 - [BtWQuests](https://www.curseforge.com/projects/280369)
 - [BugSack](https://github.com/funkydude/BugSack)
 - [Cinematic](https://www.curseforge.com/projects/1730730)
+- CraftCost
 - [Details! Damage Meter](https://www.curseforge.com/projects/61284)
 - [Forever Dungeon Journal](https://www.curseforge.com/wow/search?search=forever%20dungeon%20journal)
 - [Forever Loot Sparkles](https://www.curseforge.com/wow/addons/forever-loot-sparkles)
