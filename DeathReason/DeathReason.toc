@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Death Reason
+## Notes: When you die, shows the last hits you took: attacker, spell, damage and your health after each.
+## Author: Jahleel
+## Version: 0.2.0
+## SavedVariables: DeathReasonDB
+## Category: Combat
+
+Core.lua
+Window.lua

@@ -7,6 +7,7 @@ Addons I made for the **WoW Forever** client (interface 16001).
 | [Reagent Scout](#reagent-scout) | Vendor price and nearest vendor for each reagent, in the profession window |
 | [DamageBot](#damagebot) | HealBot-style bars for enemies you're fighting, with your DoTs on them |
 | [Disenchant Odds](#disenchant-odds) | Disenchant results and chances in item tooltips |
+| [Death Reason](#death-reason) | When you die: your last 10 hits, who hit you and with what |
 
 ## Install
 
@@ -42,6 +43,13 @@ Disenchants into:              Enchanting 150
   1-2x Greater Nether Essence             20%
   1x Large Radiant Shard                   5%
 ```
+
+## Death Reason
+
+When you die, a window lists the hits you took (10 by default), killing blow at the top: time
+before death, spell, attacker, damage and your health after each hit. It closes when you release
+your spirit. `/dreason` shows your last deaths, `/dreason test` a sample, `/dreason settings` for size
+and options. Attackers come from the game's death recap; older hits it doesn't cover show as "attacker unknown".
 
 ---
 
